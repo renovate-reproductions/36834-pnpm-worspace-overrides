@@ -1,0 +1,15 @@
+{
+  "name": "36834-pnpm-worspace-overrides",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.30.2",
+  "dependencies": {
+    "vitest": "4.1.1"
+  }
+}

@@ -1,17 +1,13 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# Extract pnpm overrides from pnpm-workspace.yaml
 
 ## Current behavior
 
-Explain the current behavior here.
+Overrides are not extracted or updated.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Overrides should be extracted and updated automatically.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+- <https://github.com/renovatebot/renovate/issues/36834>
